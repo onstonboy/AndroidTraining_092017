@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //TODO test
 
+        System.out.println("Test Git Branch");
     }
     public static void Demo(){
 
